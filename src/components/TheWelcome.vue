@@ -13,7 +13,7 @@ import SupportIcon from './icons/IconSupport.vue'
       <DocumentationIcon />
     </template>
     <template #heading>Introduction</template>
-    saya alumni dari SMK Negeri 2 Lubuk Basung dan Jurusan saya di SMK adalah Teknik Komputer
+    saya alumni dari SMK Pembangunan dan Jurusan saya di SMK adalah Teknik Komputer
     Jaringan
   </WelcomeItem>
 
